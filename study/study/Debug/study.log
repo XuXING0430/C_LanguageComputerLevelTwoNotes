@@ -1,0 +1,3 @@
+﻿  study2.cpp
+study2.obj : error LNK2005: _main 已经在 study1.obj 中定义
+C:\Users\xushu\Documents\Visual Studio 2010\Projects\study\Debug\study.exe : fatal error LNK1169: 找到一个或多个多重定义的符号

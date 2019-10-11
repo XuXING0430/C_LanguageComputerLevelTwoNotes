@@ -1,0 +1,6 @@
+﻿  15-文件操作.cpp
+c:\users\xushu\documents\visual studio 2010\projects\studyeight\studyeight\15-文件操作.cpp(145): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(234) : 参见“fopen”的声明
+c:\users\xushu\documents\visual studio 2010\projects\studyeight\studyeight\15-文件操作.cpp(150): warning C4308: 负整型常量转换为无符号类型
+c:\users\xushu\documents\visual studio 2010\projects\studyeight\studyeight\15-文件操作.cpp(150): warning C4307: “*”: 整型常量溢出
+  studyEight.vcxproj -> C:\Users\xushu\Documents\Visual Studio 2010\Projects\studyEight\Debug\studyEight.exe
